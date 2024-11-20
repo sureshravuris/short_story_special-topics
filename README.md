@@ -24,22 +24,22 @@ A comprehensive analysis and content creation project focused on recent developm
 
 ### 📝 2. Content Creation
 #### 📱 Medium Article
-- 🔄 Original synthesis of multiple survey papers
-- 🏗️ Focus on architectural insights and practical applications
-- 📊 Include custom visualizations
-- 💡 Incorporate personal analysis and insights
+-  Original synthesis of multiple survey papers
+-  Focus on architectural insights and practical applications
+-  Include custom visualizations
+-  Incorporate personal analysis and insights
 
 #### 📊 SlideShare Presentation
-- 🎪 Comprehensive slide deck
-- 🖼️ Visual representation of key concepts
-- 📱 Formatted for SlideShare platform
-- ➡️ Clear progression of ideas
+-  Comprehensive slide deck
+-  Visual representation of key concepts
+-  Formatted for SlideShare platform
+-  Clear progression of ideas
 
 #### 🎥 Video Presentation
-- ⏱️ Duration: 10-15 minutes
-- 🎞️ Based on slide deck content
-- 🗣️ Clear explanation of key findings
-- 👔 Professional delivery
+-  Duration: 10-15 minutes
+-  Based on slide deck content
+-  Clear explanation of key findings
+-  Professional delivery
 
 ## ✅ Deliverables
 - [ ] 📑 Research summary and analysis
@@ -50,8 +50,8 @@ A comprehensive analysis and content creation project focused on recent developm
 
 
 ## Platform Links
-- Medium Article: [Access Here](https://medium.com/@sureshravuri/a-survey-on-responsible-generative-ai-what-to-generate-and-what-not-0337bf70aa8e)
-- SlideShare Presentation: [Access Here](https://www.slideshare.net/slideshow/responsible-generative-ai-what-to-generate-and-what-not/273463614)
-- Video Presentation: [Access Here]()
+- 📱 Medium Article: [Access Here](https://medium.com/@sureshravuri/a-survey-on-responsible-generative-ai-what-to-generate-and-what-not-0337bf70aa8e)
+- 📊 SlideShare Presentation: [Access Here](https://www.slideshare.net/slideshow/responsible-generative-ai-what-to-generate-and-what-not/273463614)
+- 🎥 Video Presentation: [Access Here]()
 
 
