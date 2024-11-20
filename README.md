@@ -14,13 +14,13 @@ A comprehensive analysis and content creation project focused on recent developm
 ### 📖 1. Paper Selection & Analysis
 - 🔎 Select and review recent survey papers (published within last 3-6 months)
 - 🎯 Focus areas:
-  - 🛠️ AI Engineering
-  - 💭 LLM Prompting
-  - 🧠 Reasoning & Memory
-  - 🔧 Tool Usage
-  - ⚠️ AI Risk & Safety
-  - 🔄 LLM Operations
-  - 👨‍💻 Development Practices
+  -  AI Engineering
+  -  LLM Prompting
+  -  Reasoning & Memory
+  -  Tool Usage
+  -  AI Risk & Safety
+  -  LLM Operations
+  -  Development Practices
 
 ### 📝 2. Content Creation
 #### 📱 Medium Article
