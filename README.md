@@ -52,6 +52,6 @@ A comprehensive analysis and content creation project focused on recent developm
 ## Platform Links
 - 📱 Medium Article: [Access Here](https://medium.com/@sureshravuri/a-survey-on-responsible-generative-ai-what-to-generate-and-what-not-0337bf70aa8e)
 - 📊 SlideShare Presentation: [Access Here](https://www.slideshare.net/slideshow/responsible-generative-ai-what-to-generate-and-what-not/273463614)
-- 🎥 Video Presentation: [Access Here]()
+- 🎥 Video Presentation: [Access Here](https://youtu.be/ZmJ3U_ePxQE)
 
 
